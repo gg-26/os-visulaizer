@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Advanced CPU Scheduling Algorithm Simulator",
+  "description": "A React and Tailwind CSS application to simulate various CPU scheduling algorithms, visualize their execution with Gantt charts and timelines, and display performance metrics. Includes an animated ready queue visualization.",
+  "requestFramePermissions": []
+}
